@@ -1,0 +1,29 @@
+_repo: '------------------------2_38213'
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herodotus
+    alias: Ηρόδοτος
+    birthdate: -484
+    deathdate: -430
+    gutenberg_agent_id: '828'
+    url: http://www.gutenberg.org/2009/agents/828
+    wikipedia: http://en.wikipedia.org/wiki/Herodotus
+description: ''
+gutenberg_issued: '2011-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38213'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- History -- To 146 B.C.'
+- !lcc 'D'
+- !lcsh 'History, Ancient'
+title: Ιστορίαι Ηροδότου, Τόμος 2
+url: http://www.gutenberg.org/ebooks/38213
